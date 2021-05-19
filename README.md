@@ -1,4 +1,4 @@
-# Sistem-Kehadiran
+# Sistem-Kehadiran-Using-PHP-MYSQL
 The system is basically for employees attendance during a meeting. 
 
 The system admin can do the following tasks:
